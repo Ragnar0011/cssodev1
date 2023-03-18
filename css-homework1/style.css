@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(245, 245, 231);
+}
+
+h1{
+    color:red;
+    font-size:60px;
+}
+
+h3{
+    font-size: 35;
+    color: red;
+}
+
+ul{
+    font-size: 25px;
+}
+
+p{
+  font-size: 20px;
+}
+
+img {
+    max-width: 500px;
+    height: auto;
+    }
